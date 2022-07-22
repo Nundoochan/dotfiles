@@ -1,0 +1,4 @@
+bind-addr: *:8077
+auth: none
+password: c9bd80be66f26d5cfbf0a1d1
+cert: false
